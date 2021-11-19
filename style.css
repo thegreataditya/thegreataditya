@@ -1,0 +1,36 @@
+#about {
+    width: auto;
+    color: black;
+}
+
+#mypic{
+    position: fixed;
+    right: 0px;
+    top:7;
+    float: right;
+    border: bold 2px #b388ff;
+    border-radius: 20px;
+    overflow: auto;
+}
+
+body{
+    background-image: url("./Background.png");
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+footer{
+    background-color: #e0e0e0;
+    color: black;
+    text-align: center;
+}
+
+.cus{
+  text-align: center;
+  padding: 1px;
+}
+#Luna{
+  float: bottom;
+}
