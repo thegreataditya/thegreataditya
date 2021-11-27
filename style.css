@@ -1,30 +1,40 @@
-#about {
+#about{
     width: auto;
-    color: black;
+    color: white;
+}
+
+#about > *{
+  font-family: Sans, Open-Sans, Helvetica;
 }
 
 #mypic{
-    position: fixed;
+    position: relative;
     right: 0px;
-    top:7;
+    top:5;
     float: right;
     border: bold 2px #b388ff;
     border-radius: 20px;
     overflow: auto;
+    margin: 15px;
 }
 
 body{
     background-image: url("./Background.png");
+    background-color: black;
+    color: white;
 }
 
 a{
     text-decoration: none;
-    color: red;
+    color: #fff000;
 }
 footer{
     background-color: #e0e0e0;
     color: black;
     text-align: center;
+    border: black 2px bold;
+    border-radius: 15px;
+    margin: 10px;
 }
 
 .cus{
