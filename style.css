@@ -1,6 +1,6 @@
 #about{
     width: auto;
-    color: white;
+    color: black;
 }
 
 #about > *{
@@ -20,7 +20,7 @@
 
 body{
     background-color: f5f5f5;
-    color: white;
+    color: black;
 }
 
 a{
